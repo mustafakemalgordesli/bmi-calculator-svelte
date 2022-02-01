@@ -1,5 +1,7 @@
 # BMI Calculator With Svelte
 
+Live Demo : https://bmi-calculator-svelte-navy.vercel.app/
+
 ## Get started
 
 Install the dependencies...
